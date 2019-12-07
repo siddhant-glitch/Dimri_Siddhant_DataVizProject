@@ -1,0 +1,34 @@
+main{
+	font-family: Helvetica, Arial;
+
+}
+#head{
+	font-family: Tahoma, Arial;
+	font-size: 30px;
+	text-decoration: underline;
+}
+h1{ 
+	text-align: center;
+	padding: 20px 0px 30px 20px;
+	background-color: #d26e6e;
+}
+body{
+	background-color: #ddd;
+}
+
+.content {
+	background-color: #d9caca;
+	width: 900px;
+	display: block;
+	margin-left: 530px;
+	margin-right: 300px;
+	margin-bottom: 20px;
+}
+
+.container{
+	margin: 40px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	padding-bottom: 40px;
+}
